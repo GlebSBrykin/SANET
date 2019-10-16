@@ -2,7 +2,7 @@
 
 This is unofficial PyTorch implementation of "Arbitrary Style Transfer with Style-Attentional Networks".
 
-Paper: https://arxiv.org/abs/1812.02342v5
+Official paper: https://arxiv.org/abs/1812.02342v5
 
 To run, download the weights and place them in the folder with Eval.py. Links to weights on Yandex.Disk:
 
