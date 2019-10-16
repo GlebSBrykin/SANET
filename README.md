@@ -1,5 +1,7 @@
-# SANET [Pre-Release]
+# SANET
 Arbitrary Style Transfer with Style-Attentional Networks
+
+This is unofficial PyTorch implementation of "Arbitrary Style Transfer with Style-Attentional Networks".
 
 To run, download the weights and place them in the folder with Eval.py. Links to weights on Yandex.Disk:
 
