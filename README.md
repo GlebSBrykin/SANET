@@ -12,6 +12,8 @@ To run, download the weights and place them in the folder with Eval.py. Links to
 
 * vgg_normalised: https://yadi.sk/d/7IrysY8q8dtneQ
 
+Or, you can download the latest release. It contains all weights, codes and examples.
+
 # Examples
 
 Original:
