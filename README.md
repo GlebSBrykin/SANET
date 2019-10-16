@@ -1,5 +1,4 @@
 # SANET
-Arbitrary Style Transfer with Style-Attentional Networks
 
 This is unofficial PyTorch implementation of "Arbitrary Style Transfer with Style-Attentional Networks".
 
