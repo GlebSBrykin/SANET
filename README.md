@@ -14,6 +14,19 @@ To run, download the weights and place them in the folder with Eval.py. Links to
 
 Or, you can download the latest release. It contains all weights, codes and examples.
 
+# How to evaluate
+
+To test the code, make changes to the following lines in the file Eval.py. here you need to specify the path to the image style and content. After that, save the changes to the file and run it.
+
+```python
+parser.add_argument('--content', type=str, default = 'input/chicago.jpg',
+                    help='File path to the content image')
+parser.add_argument('--style', type=str, default = 'style/style11.jpg',
+                    help='File path to the style image, or multiple style \
+                    images separated by commas if you want to do style \
+                    interpolation or spatial control')
+```
+
 # Examples
 
 Original:
