@@ -27,6 +27,10 @@ parser.add_argument('--style', type=str, default = 'style/style11.jpg',
                     interpolation or spatial control')
 ```
 
+# How to train
+
+You can train your own SANet using Train.ipynb
+
 # Examples
 
 Original:
